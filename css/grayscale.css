@@ -196,6 +196,10 @@ text-shadow: 2px 2px 0.3px black;
   margin-bottom: 1rem;
 }
 
+.about-section a {
+	color: #dbbe16;
+}
+
 .projects-section {
   padding: 10rem 0;
   background: linear-gradient(to bottom, rgba(22, 22, 22, 1) 1%, rgba(248, 249, 250, 1) 20%, rgba(248, 249, 250, 1) 80%, rgba(22, 22, 22, 1) 100%);
